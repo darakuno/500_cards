@@ -53,7 +53,7 @@ MDScreen:
                     height: self.width
                     
                     FitImage:
-                        source: "avatar_pic.jpg"
+                        source: "data/avatar_pic.jpg"
                         radius: [16, 16, 16, 16 ]
                         
                         
