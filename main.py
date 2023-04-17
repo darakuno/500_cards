@@ -52,10 +52,10 @@ MDScreen:
                     size_hint: .3, 1
                     height: self.width
                     
-                    
-                        
-                        
-                    
+                    FitImage:
+                        source: "data/avatar_pic.jpg"
+                        radius: [16, 16, 16, 16 ]
+                         
             MDCard:
                 orientation: "vertical"
                 adaptive_size: True
