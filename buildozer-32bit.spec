@@ -4,7 +4,7 @@
 title = Cards500
 
 # (str) Package name
-package.name = Cards500
+package.name = 500_cards
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
